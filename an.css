@@ -33,7 +33,7 @@ html{
 }
 
 div#midground{
-	background: url("../one/img/midground.png");
+	background: url("../img/midground.png");
 	/*溢出隐藏，内容超过显示布局，隐藏超出部分*/
 	overflow: hidden;
 	/*linear:表示动画从头到尾的速度都是相同的。*/
