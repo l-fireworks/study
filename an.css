@@ -33,7 +33,7 @@ html{
 }
 
 div#midground{
-	background: url("../study/img/midground.png");
+	background: url("../one/img/midground.png");
 	/*溢出隐藏，内容超过显示布局，隐藏超出部分*/
 	overflow: hidden;
 	/*linear:表示动画从头到尾的速度都是相同的。*/
@@ -42,7 +42,7 @@ div#midground{
 }
 
 div#foreground{
-	background: url("../study/img/foreground.png");
+	background: url("../one/img/foreground.png");
 	/*溢出隐藏，内容超过显示布局，隐藏超出部分*/
 	overflow: hidden;
 	/*linear:表示动画从头到尾的速度都是相同的。*/
